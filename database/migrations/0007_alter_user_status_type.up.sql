@@ -1,0 +1,1 @@
+ALTER TYPE status_type RENAME VALUE 'block_listed' TO 'black_listed'

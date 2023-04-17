@@ -1,0 +1,1 @@
+ALTER TABLE users ALTER COLUMN authentication_times SET DEFAULT 0;

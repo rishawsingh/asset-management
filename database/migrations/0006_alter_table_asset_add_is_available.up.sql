@@ -1,0 +1,1 @@
+ALTER TABLE assets ADD COLUMN is_available bool DEFAULT true;
